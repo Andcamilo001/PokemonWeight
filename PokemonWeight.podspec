@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'PokemonWeight'
   s.version          = '1.0.0'
   s.summary          = 'The PokemonMeasures package is a powerful and lightweight Swift library designed to assist developers in effortlessly converting the weight and height of Pokemon creatures. It provides easy-to-use functions to transform the weight of Pokemon from kilograms to pounds and their height from centimeters to feet.'
+  s.swift_versions = '5.0'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
