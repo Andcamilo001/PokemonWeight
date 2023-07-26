@@ -1,0 +1,16 @@
+PODS:
+  - PokemonWeight (0.1.0)
+
+DEPENDENCIES:
+  - PokemonWeight (from `../`)
+
+EXTERNAL SOURCES:
+  PokemonWeight:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PokemonWeight: 79fddd110726cc578e754238e2b6791f39007624
+
+PODFILE CHECKSUM: 8186c351dc698c02c433f173570c62b9225de91a
+
+COCOAPODS: 1.12.1

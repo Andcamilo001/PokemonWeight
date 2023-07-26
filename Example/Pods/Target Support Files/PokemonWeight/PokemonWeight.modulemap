@@ -1,0 +1,6 @@
+framework module PokemonWeight {
+  umbrella header "PokemonWeight-umbrella.h"
+
+  export *
+  module * { export * }
+}
