@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PokemonWeight_Example' do
+  pod 'PokemonWeight', :path => '../'
+
+  target 'PokemonWeight_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
