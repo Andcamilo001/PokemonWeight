@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
 
   s.description      = "Description: The PokemonWeight package is a versatile and easy-to-use Swift library created to simplify the conversion of Pokemon creature measures. It provides convenient functions to transform the weight of Pokemon from kilograms to pounds and their height from centimeters to feet. Key Features: Intuitive API: The PokemonWeight package offers straightforward functions, making it effortless for developers to incorporate weight and height conversion capabilities into their Pokemon-related applications. Accurate and Precise Conversions: The converter ensures precise transformations, maintaining the authenticity of Pokemon statistics. Lightweight and Efficient: This library is designed to be lightweight and efficient, ensuring minimal impact on the performance of your applications. Seamless Integration: Easily integrate the converter into existing or new Swift projects using Swift Package Manager. Pokemon Data Support: The converter is specifically tailored for Pokemon-related data, ensuring seamless compatibility with Pokemon databases and APIs"
 
-  s.homepage         = 'https://github.com/Andcamilo001/PokemonMeasures.git'
+  s.homepage         = 'https://github.com/Andcamilo001/PokemonWeight.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'camilo.lezcanor@pragma.com.co' => 'andcamilo001@gmail.com' }
-  s.source           = { :git => 'https://github.com/Andcamilo001/PokemonMeasures.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Andcamilo001/PokemonWeight.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
